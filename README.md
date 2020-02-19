@@ -25,3 +25,5 @@
   2. Easing
      - https://github.com/daimajia/AnimationEasingFunctions
      - https://github.com/MasayukiSuda/EasingInterpolator
+  3. Loading
+     - https://github.com/81813780/AVLoadingIndicatorView
